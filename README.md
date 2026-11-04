@@ -9,7 +9,7 @@ This is a Python script that allows you to use your Pi Zero to play local music 
 1. **Album Organizing**
 2. **Music Metadata Display**
 3. **Music Playing Modes**
-4. **Bluetooth** *(Unreliable)*
+4. **Kodi launch from menu** *(Unreliable)*
 
 ---
 
@@ -68,25 +68,19 @@ Connect the buttons from **Ground** to the following BCM GPIO pins:
 
 ---
 
-> **Note on Bluetooth:** Bluetooth does not currently work properly and may cause instability when launched. It is **not recommended** for daily use at this time.
-
----
-
 ## Upcoming Features
 
-1. Fixed Bluetooth stability
+1. Bluetooth
 2. Built-in games
-3. Kodi launch straight from the menu
-4. EmulationStation support
-
+3. Equaliser
 ---
-
-## Acknowledgements
-
-1. Mutagen
-2. VLC
-3. Google Gemini
-
+## Acknowledgements 
+1. **[Luma.Oled](https://github.com/rm-hull/luma.oled)** - For the fantastic OLED display driver library.
+2. **[Python-VLC](https://wiki.videolan.org/Python_bindings)** - For providing robust media playback control.
+3. **[Gpiozero](https://gpiozero.readthedocs.io/)** - For making hardware button integration simple and reliable.
+4. **[Mutagen](https://mutagen.readthedocs.io/)** - For handling MP3 metadata and ID3 tag parsing.
+5. **[Raspberry Pi Foundation](https://www.raspberrypi.org/)** - For creating the compact and versatile Pi Zero hardware.
+6. **Google Gemini** - For assistance with coding, debugging, and documentation.
 ---
 
 ## Contact Me
