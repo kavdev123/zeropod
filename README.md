@@ -1,3 +1,5 @@
+![PiPod Banner](./assets/PiPod.png)
+
 # PiPod - Raspberry Pi Zero based music player
 
 This is a Python script that allows you to use your Pi Zero to play local music through MP3 files. It utilizes an OLED display, 6 buttons, and an audio output to let you enjoy your music on the go.
