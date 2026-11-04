@@ -32,7 +32,7 @@ This is a Python script that allows you to use your Pi Zero to play local music 
 ## Installation Commands
 
 ```bash
-git clone "URL"
+git clone "https://github.com/kavdev123/PiPod/"
 cd pipod
 chmod +x install.sh
 sudo ./install.sh
