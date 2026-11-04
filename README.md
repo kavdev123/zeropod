@@ -1,4 +1,4 @@
-![PiPod Banner](./assets/PiPod.png)
+![PiPod Banner](https://github.com/kavdev123/PiPod/blob/main/PiPod.png)
 
 # PiPod - Raspberry Pi Zero based music player
 
